@@ -59,6 +59,7 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <h1>testing node js next js app</h1>
       </main>
     </div>
   );
